@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#blueText {
+  color: blue;
+}
+
+#links-with-no-underlying {
+  text-underline-position: auto;
+}
